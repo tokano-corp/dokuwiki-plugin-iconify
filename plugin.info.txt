@@ -1,0 +1,8 @@
+base   iconify
+author Tokano
+email  contact@tokano.fr
+date   2024-12-13
+name   iconify plugin
+desc   Add Iconify icons in your Dokuwiki pages with customizable color and size.
+url    http://www.dokuwiki.org/plugin:iconify
+tags   iconify, icons, customization, mdi, flag
